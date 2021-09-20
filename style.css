@@ -5,6 +5,46 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:white;
+    background-color:rgb(52, 165, 52,0.5);
     color: rgb(52, 165, 52);
+}
+
+.name img{
+   margin-bottom: -30px;
+}
+
+.name h1{
+    margin-bottom: 10px;
+}
+
+.home{
+    margin-left: 14%;
+}
+
+.home h1 {
+    text-align: center;
+    padding-right: 70px;
+}
+
+.home h1 a{
+    text-decoration: none;
+    color: rgb(151, 243, 151);
+}
+
+.home h1 a:hover{
+    color: rgb(0,0,0,0.6);
+}
+
+.reiniciar{
+    text-decoration: none;
+    color: rgb(230, 247, 230);
+    padding-left: 140px;
+    font-size: larger;
+}
+
+.inicio{
+    text-decoration: none;
+    color: rgb(230, 247, 230);
+    padding-left: 123px;
+    font-size: larger;
 }
